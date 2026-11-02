@@ -1,0 +1,76 @@
+output ex12
+-- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 1
+Enter key to insert: 50
+Key 50 inserted at index 0
+
+--- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 1
+Enter key to insert: 5
+Key 5 inserted at index 5
+
+--- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 1 
+Enter key to insert: 16
+Key 16 inserted at index 6
+
+--- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 1
+Enter key to insert: 1
+Key 1 inserted at index 1
+
+--- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 3
+
+Hash Table:
+Index 0: 50
+Index 1: 1
+Index 2: --
+Index 3: --
+Index 4: --
+Index 5: 5
+Index 6: 16
+Index 7: --
+Index 8: --
+Index 9: --
+
+--- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 2
+Enter key to search: 16
+Key 16 found at index 6
+
+--- Hashing (Linear Probing) Menu ---
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter your choice: 4
+Exiting program.
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
